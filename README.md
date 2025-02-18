@@ -1,2 +1,2 @@
-# webtechCW.github.io
+# webtechcw
 webtech coursework
